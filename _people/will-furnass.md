@@ -12,13 +12,13 @@ Will is a Research Software Engineer who is curently working on:
 
   - Workflows and data management for the [Sheffield Biomedical Research Centre](http://sheffieldbrc.nihr.ac.uk/)
   - Research computing strategy and support for the [Insigneo Institute for in silico Medicine](https://insigneo.org/)
-  - Software development and code optimisation for [Out Of Our Minds](http://outofourminds.shef.ac.uk/),
+  - Software development and code optimisation for [Out Of Our Minds](https://outofourminds.shef.ac.uk/),
     a Leverhume Trust-funded project to "develop new, accurate ways of describing speakers’ linguistic knowledge, by
     using machine-learning techniques that mimic the way in which humans learn".
 
 Previous projects:
 
-  - A [JupyterHub service for the University's ShARC HPC system](http://docs.hpc.shef.ac.uk/en/latest/hpc/jupyterhub.html),
+  - A [JupyterHub service for the University's ShARC HPC system](https://docs.hpc.shef.ac.uk/en/latest/hpc/jupyterhub.html),
     plus training materials that can be delivered using that service
     (the materials relate to [multithreading/multiprocessing using Python](https://github.com/RSE-Sheffield/hi-perf-ipynb).
     Work conducted as part of [OpenDreamKit](https://opendreamkit.org/),

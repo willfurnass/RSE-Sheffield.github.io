@@ -21,7 +21,7 @@ xarray also makes it easy to open, query, manipulate, concatenate, merge or visu
 Loading a NetCDF file is as simple as `x = xr.open_dataset(netcdffile)` and saving a dataframe or array to NetCDF is equally straighforward: `DF.to_netCDF('filename')`.
 
 ### Well suited to parallel computing using Dask
-Xarray is also tightly integrated with Dask so that operations over datasets too large to sit in memory can be achieved using Dask commands directly over xarray data arrays or datasets. Dask achieves this by chunking the dataset and distributing the computation over multiple cores. xarray takes a “chunks” argument that divides the xarray into dask arrays ready to be distributed. More information about xarray and dask is avilable in the (very good) [documentation](http://xarray.pydata.org/en/stable/dask.html).  
+Xarray is also tightly integrated with Dask so that operations over datasets too large to sit in memory can be achieved using Dask commands directly over xarray data arrays or datasets. Dask achieves this by chunking the dataset and distributing the computation over multiple cores. xarray takes a “chunks” argument that divides the xarray into dask arrays ready to be distributed. More information about xarray and dask is avilable in the (very good) [documentation](https://xarray.pydata.org/en/stable/dask.html).  
 
 
 ## Data structures:
@@ -135,4 +135,4 @@ Note that in reality there was some more formatting applied prior to plotting, i
 xarray is a powerful tool for working with large structured, labelled datasets. It is quite intuitive to users familiar with numpy and pandas and plays well with both. It also provides a neat route to standardised data archiving in NetCDF format with metadata and attributes stored alongside the data.
 
 ### Further Reading
-More info about xarray is available in the [documentation](http://xarray.pydata.org/en/stable/dask.html) and several excellent [blogs](https://rabernat.github.io/research_computing/xarray.html). The code shown above is a reduced version from this [repository](www.github.com/jmcook1186/IceSurfClassifiers/).
+More info about xarray is available in the [documentation](https://xarray.pydata.org/en/stable/dask.html) and several excellent [blogs](https://rabernat.github.io/research_computing/xarray.html). The code shown above is a reduced version from this [repository](www.github.com/jmcook1186/IceSurfClassifiers/).

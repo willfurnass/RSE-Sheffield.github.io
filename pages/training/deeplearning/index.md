@@ -43,7 +43,7 @@ If you would like to contribute to the list, please get in touch with Twin at [t
     * [Tensorflow playground](http://playground.tensorflow.org/)
     * [Stanford ConvnetJS](http://cs.stanford.edu/people/karpathy/convnetjs/)
 * Major DL software packages
-    * [Caffe](http://caffe.berkeleyvision.org/)
+    * [Caffe](https://caffe.berkeleyvision.org/)
     * [Caffe2](https://caffe2.ai/)
     * [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/)
     * [DIGITS](https://developer.nvidia.com/digits) - GUI and scheduler that uses Caffe and Torch backend

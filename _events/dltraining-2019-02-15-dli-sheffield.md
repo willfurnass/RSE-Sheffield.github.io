@@ -26,5 +26,5 @@ In this full-day workshop, you will learn the basics of deep learning by trainin
 
 **Pre-requisites:** Technical background and basic understanding of deep learning concepts. Knowledge of Python is helpful but is not a requirement.
 
-**Platforms:** [Nvidia DIGITS](https://developer.nvidia.com/digits) and [Caffe](http://caffe.berkeleyvision.org/)
+**Platforms:** [Nvidia DIGITS](https://developer.nvidia.com/digits) and [Caffe](https://caffe.berkeleyvision.org/)
 

@@ -15,7 +15,7 @@ type: text
 **By [Becky Arnold](https://software.ac.uk/fellows/becky-arnold),
 [University of Sheffield](https://www.sheffield.ac.uk).**
 
-On the 30th of January 2019, [Christopher Woods](https://chryswoods.com/), an EPSRC fellow at the [Advanced Computing Research Centre](https://www.bristol.ac.uk/acrc/) at the [University of Bristol](http://www.bristol.ac.uk/homepage/) gave a talk on "How To Design And Engineer Good Code For Research" at the University of Sheffield. Around seventy people attended to hear Chris talk about what makes code good, how to go about writing it, and how to make sure it’s reliable. The slides can be found [here](https://drive.google.com/file/d/1CBTAhCVixccui1DjeUT13qh6ga5SDXjl/view).
+On the 30th of January 2019, [Christopher Woods](https://chryswoods.com/), an EPSRC fellow at the [Advanced Computing Research Centre](https://www.bristol.ac.uk/acrc/) at the [University of Bristol](https://www.bristol.ac.uk/homepage/) gave a talk on "How To Design And Engineer Good Code For Research" at the University of Sheffield. Around seventy people attended to hear Chris talk about what makes code good, how to go about writing it, and how to make sure it’s reliable. The slides can be found [here](https://drive.google.com/file/d/1CBTAhCVixccui1DjeUT13qh6ga5SDXjl/view).
 
 Chris first discussed the question of what does good code for research need to be, and gave three main criteria. 
 

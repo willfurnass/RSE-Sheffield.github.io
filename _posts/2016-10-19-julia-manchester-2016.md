@@ -16,7 +16,7 @@ type: text
 </a>
 </div>
 
-A few weeks ago (19-20th September 2016) I had the chance to attend the very first Julia workshop in the UK held at the University of Manchester by the [SIAM Student Chapter](http://www.maths.manchester.ac.uk/~siam/). The first day of the [workshop](http://www.maths.manchester.ac.uk/~siam/julia16/) consisted of a basic tutorial of Julia, installation instructions and around five hours of hackathon. The second day provided an introduction to carrying out research in various fields such as data analysis, material science, natural language processing and bioinformatics using Julia. The attendees were a mixture of PhD students, post-docs and lecturers mainly from the University of Manchester as well as other universities and institutes (Warwick, Glasgow, Reading, MIT, Imperial College London, Earlham Institute).
+A few weeks ago (19-20th September 2016) I had the chance to attend the very first Julia workshop in the UK held at the University of Manchester by the [SIAM Student Chapter](https://www.maths.manchester.ac.uk/~siam/). The first day of the [workshop](https://www.maths.manchester.ac.uk/~siam/julia16/) consisted of a basic tutorial of Julia, installation instructions and around five hours of hackathon. The second day provided an introduction to carrying out research in various fields such as data analysis, material science, natural language processing and bioinformatics using Julia. The attendees were a mixture of PhD students, post-docs and lecturers mainly from the University of Manchester as well as other universities and institutes (Warwick, Glasgow, Reading, MIT, Imperial College London, Earlham Institute).
 
 # Day 1: Tutorial and Hackathon
 
@@ -31,9 +31,9 @@ As I wanted to try as many libraries as possible from image processing and data 
 
 # Day 2: Talks
 
-The talks were centred around specific fields with heavy scientific computing (automatic differentiation, molecular modelling, natural language processing, bioinformatics and computational biology) and how Julia influence these fields. Each speaker presented his field of research and his Julia implementations which ended up as another package for the Julia community. More information about the speakers can be found on the [Manchester Julia Workshop webpage](http://www.maths.manchester.ac.uk/~siam/julia16/) and a list of the presented packages can be found below:
+The talks were centred around specific fields with heavy scientific computing (automatic differentiation, molecular modelling, natural language processing, bioinformatics and computational biology) and how Julia influence these fields. Each speaker presented his field of research and his Julia implementations which ended up as another package for the Julia community. More information about the speakers can be found on the [Manchester Julia Workshop webpage](https://www.maths.manchester.ac.uk/~siam/julia16/) and a list of the presented packages can be found below:
 
-* Data analysis and visualization: [Distributions.jl](http://distributionsjl.readthedocs.io/en/latest/), [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl), [GLM.jl](https://github.com/JuliaStats/GLM.jl)
+* Data analysis and visualization: [Distributions.jl](https://distributionsjl.readthedocs.io/en/latest/), [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl), [GLM.jl](https://github.com/JuliaStats/GLM.jl)
 * Embed other languages with Julia (Python, R): [PyCall.jl](https://github.com/JuliaPy/PyCall.jl), [RCall.jl](https://github.com/JuliaInterop/RCall.jl).
 * Automatic differentiation: [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl).
 * Molecular modelling: [JuLIP.jl](https://github.com/libAtoms/JuLIP.jl).

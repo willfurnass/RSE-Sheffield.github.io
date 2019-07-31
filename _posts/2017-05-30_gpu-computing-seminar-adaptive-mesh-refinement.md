@@ -18,4 +18,4 @@ There's no offical GPU Computing talks in June but we highly recommend the upcom
 
 ## Links and More Information
 
-For presentation slides and more information on both of these talks, visit the [GPU Computing seminars](http://gpucomputing.shef.ac.uk/seminars/) page.
+For presentation slides and more information on both of these talks, visit the [GPU Computing seminars](https://gpucomputing.shef.ac.uk/seminars/) page.

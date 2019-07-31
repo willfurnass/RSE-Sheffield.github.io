@@ -11,7 +11,7 @@ type: text
 
 # About
 
-This workshop comprises two half-day sessions that will show you how to program multicore (e.g. Xeon) and massively multicore (e.g. Xeon Phi) computers using C++. The course is delivered by [Christopher Woods](http://www.bristol.ac.uk/brissynbio/people/person/christopher-j-woods/index.html) (RSE FEllows) from Research Software Engineering group at the University of Bristol. The course is facilitated by [Paul Richmond](http://paulrichmond.shef.ac.uk/) and [Mozhgan K. Chimeh](http://mkchimeh.staff.shef.ac.uk/) from RSE Sheffield.
+This workshop comprises two half-day sessions that will show you how to program multicore (e.g. Xeon) and massively multicore (e.g. Xeon Phi) computers using C++. The course is delivered by [Christopher Woods](https://www.bristol.ac.uk/brissynbio/people/person/christopher-j-woods/index.html) (RSE FEllows) from Research Software Engineering group at the University of Bristol. The course is facilitated by [Paul Richmond](https://paulrichmond.shef.ac.uk/) and [Mozhgan K. Chimeh](http://mkchimeh.staff.shef.ac.uk/) from RSE Sheffield.
 
 The course will run in Computer Room ALG04 (40) in Bartolomé House, Winter Street, Sheffield, S3 7ND (Sheffield University Building number 101 - [see campus map](https://www.sheffield.ac.uk/polopoly_fs/1.656475!/file/campus-map-a-z-oct16.gif))
 

@@ -17,7 +17,7 @@ Science](https://www.sheffield.ac.uk/bms) to develop a [new course that
 taught the basics of Bioinformatics](http://opendsi.cc/bioinformatics/)
 to biology undergraduates. Marta took care of the subject matter while I
 took care of getting it all to work in the [Jupyter
-Notebook](http://jupyter.org/) in [Sage Math
+Notebook](https://jupyter.org/) in [Sage Math
 Cloud](https://cocalc.com/). I also gave crash courses in Jupyter, git
 and SageMathCloud to support staff.
 
@@ -53,5 +53,5 @@ technology to the chemical and biological engineers and I look forward
 to working with them all in the future.
 
 -   Slides from my talk are available at
-    <http://mikecroucher.github.io/ChemEng_Jupyter_talk2016/>
+    <https://mikecroucher.github.io/ChemEng_Jupyter_talk2016/>
 

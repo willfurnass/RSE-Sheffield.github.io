@@ -11,7 +11,7 @@ role: Research Software Engineer
 
 Anna is a Research Software Engineer. She fell in love with statistical programming and R in particular, during her PhD in Macroecology at the University of Sheffield. This was followed by two years of freelancing as a Research Data Scientist. These and previous experiences as a quality assurance auditor have led her to focus on efforts to promote more transparent, robust, reproducible research through better scientific software development and research data management.
 
-She’s also passionate about community and capacity building. She has extensive teaching experience, was part of the inaugural Mozilla Science Lab [Open Leadership Training](https://mozilla.github.io/leadership-training/readme/) cohort, has been a veteran mentor on following rounds and a member of the organising committee for the [Sheffield R users group](http://sheffieldr.github.io/).
+She’s also passionate about community and capacity building. She has extensive teaching experience, was part of the inaugural Mozilla Science Lab [Open Leadership Training](https://mozilla.github.io/leadership-training/readme/) cohort, has been a veteran mentor on following rounds and a member of the organising committee for the [Sheffield R users group](https://sheffieldr.github.io/).
 
 Key interests include:
 

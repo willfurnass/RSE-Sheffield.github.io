@@ -21,7 +21,7 @@ The Windows 10 subsystem for Linux is available in the anniversary update. You c
 	
 	sudo apt-get update
 	CUDA_REPO_PKG=cuda-repo-ubuntu1404_8.0.44-1_amd64.deb
-	wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1404/x86_64/$CUDA_REPO_PKG
+	wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1404/x86_64/$CUDA_REPO_PKG
 	sudo dpkg -i $CUDA_REPO_PKG
 	sudo apt-get update
 	sudo apt-get install -y --no-install-recommends cuda-core-8-0 cuda-cudart-dev-8-0 nsight

@@ -39,7 +39,7 @@ technology. We can also help you learn more about deep learning, the
 powerful new machine learning technique that uses GPUs to solve complex
 data science problems.
 
-As part of our [GPU computing at University of Sheffield](http://gpucomputing.shef.ac.uk/) initiative,
+As part of our [GPU computing at University of Sheffield](https://gpucomputing.shef.ac.uk/) initiative,
 we have a number of RSE team members who are Deep Learning Institute accredited 
 trainers who run courses which aim to teach how to use GPUs
 and help you gain access to hardware.
@@ -88,7 +88,7 @@ develop a highly successful course.
 
 We give talks and seminars on the use of research software in teaching
 -an example of which is the talk on [Project Jupyter and
-SageMathCloud](http://mikecroucher.github.io/ChemEng_Jupyter_talk2016/) at the 2016 Chemical Engineering teaching away-day.
+SageMathCloud](https://mikecroucher.github.io/ChemEng_Jupyter_talk2016/) at the 2016 Chemical Engineering teaching away-day.
 
 ## Support of site licensed RSE software
 

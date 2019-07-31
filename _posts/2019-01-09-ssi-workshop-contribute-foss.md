@@ -22,7 +22,7 @@ On the 28th of November, [Yo Yehudi](http://yo-yehudi.com/) of the
 [Software Sustainability Institute](https://www.software.ac.uk/)  and
 the [University of Cambridge](https://www.cam.ac.uk/) gave a half day
 workshop for researchers on how to contribute to open source software at
-the [University of Sheffield](http://sheffield.ac.uk). Many researchers
+the [University of Sheffield](https://sheffield.ac.uk). Many researchers
 make use of open source projects in their work. Also, in the course of
 conducting their own research many develop their own software which
 others in their field could potentially benefit from. Further, openly
@@ -30,7 +30,7 @@ sharing software makes it much easier for researchers to check each
 other\'s results, which makes scientific outputs more reliable and
 reproducible. This workshop introduced researchers to what "open source"
 means, how to contribute to pre-existing open source projects, and how
-to start their own. [Anna Krystalli](http://annakrystalli.me/) of the
+to start their own. [Anna Krystalli](https://annakrystalli.me/) of the
 [University of Sheffield Research Software
 Engineering](https://rse.shef.ac.uk) group also helped out at this event.
 The materials for this workshop are [(openly) available

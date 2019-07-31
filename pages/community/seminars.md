@@ -14,7 +14,7 @@ We aim to hold lunchtime seminars in the last week of every month, inviting spea
 
 If you would like to recommend a speaker or would like to give a talk then please [contact us](/contact). We have a budget to support inviting speakers.
 
-*Note: The [GPU computing](http://gpucomputing.shef.ac.uk/seminars/) seminar series has now been merged with the RSE seminar series. Talks on GPU computing will be advertised through both mailing lists.*
+*Note: The [GPU computing](https://gpucomputing.shef.ac.uk/seminars/) seminar series has now been merged with the RSE seminar series. Talks on GPU computing will be advertised through both mailing lists.*
 
 {% assign seminars = site.events | where: 'category', 'seminar' | sort: 'date' | reverse %}
 {% if seminars and seminars.size > 0 %}

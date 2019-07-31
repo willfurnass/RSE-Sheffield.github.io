@@ -28,7 +28,7 @@ as mentioned in my earlier post
 this his job validation mechanism sometimes results in *false negatives* i.e. you are told that a job cannot run even though though in reality it can.  
 This is something that the HPC sysadmin team at the University of Leeds alerted us to.
 
-Here's an example of a false positive (using our [ShARC](http://docs.hpc.shef.ac.uk/en/latest/sharc/) cluster.  
+Here's an example of a false positive (using our [ShARC](https://docs.hpc.shef.ac.uk/en/latest/sharc/) cluster.  
 If you ask for a single-core interactive session with access to four GPUs then dry-run validation fails:
 
         [te1st@sharc-login1 ~]$ qrsh -l gpu=4 -w v
@@ -41,11 +41,11 @@ yet (without validation) the resource request can be satisfied:
         [te1st@sharc-node100 ~]$   # works!
 
 The **reason for this** appears to be that the validation is performed 
-without running any [Job Submission Verifier](http://gridscheduler.sourceforge.net/htmlman/htmlman1/jsv.html) (JSV) scripts.
+without running any [Job Submission Verifier](https://arc.liv.ac.uk/SGE/htmlman/htmlman1/jsv.html) (JSV) scripts.
 These scripts are run (typically on the SGE master machine) on every submitted job to 
 centrally modify or reject job requests post-submission.
 
-On ShARC the main JSV script changes a job's [Project](http://gridscheduler.sourceforge.net/htmlman/htmlman5/project.html?pathrev=V62u5_TAG) 
+On ShARC the main JSV script changes a job's [Project](https://arc.liv.ac.uk/SGE/htmlman/manuals.html) 
 from a generic one 
 to `gpu` 
 if `x > 0` GPUs have been requested using `-l gpu=x`.

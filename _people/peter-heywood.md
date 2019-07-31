@@ -17,4 +17,4 @@ which focuses on the use of in silico trials to support and improve tuberculosis
 
 * Email: p.heywood (at) sheffield.ac.uk
 * Twitter: [@ptheywood](https://twitter.com/ptheywood)
-* Web: [ptheywood.uk](http://ptheywood.uk)
+* Web: [https://ptheywood.uk](https://ptheywood.uk)
